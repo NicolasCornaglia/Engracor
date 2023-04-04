@@ -1,0 +1,5 @@
+arreglar que l;as alturas del logo y la barra de navegacion sean las mismas, y que en mobile el carrito este alineado en el centro, y que el logo de engracor se vea mas grande.
+
+alinear logo con navbar y que los tamanios sean compatibles tamb, poiner el ddel navbar en %
+
+añadir en contacto el icono de wpp q redirija al wpp de la emrpesa
